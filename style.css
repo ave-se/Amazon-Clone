@@ -54,7 +54,7 @@ font-size: 14px;
 .nav-search-category {
     display: flex;
     align-items: center;
-    padding: 10px 20px;
+    padding: 17px 20px;
     gap: 5px;
     background: #e5e5e5;
     border-radius: 4px 0 0 4px;
@@ -73,3 +73,26 @@ font-size: 14px;
     background: #ffd64f;
     border-radius: 0 4px 4px 0;
 }
+
+.nav-language {
+    display: flex;
+    align-items: center;
+    gap: 2px;
+    font-weight: 600;
+    margin-right: 15px;
+}
+.nav-text {
+    font-size: 15px;}
+
+    .nav-text p {
+        font-size: 10px; }
+
+        .nav-text h1{
+            font-size: 14px;
+        }
+
+        .nav-cart {
+            display: flex;
+            align-items: center;
+            margin: 0px 15px;
+        }
